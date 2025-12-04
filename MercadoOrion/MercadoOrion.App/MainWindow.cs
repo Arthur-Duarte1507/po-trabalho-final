@@ -198,4 +198,28 @@ public partial class MainWindow : Form
             }
         }
     }
+
+    private void OpenCashier(object? sender, EventArgs e)
+    {
+        using var window = new CashierForm();
+        window.ShowDialog(this);
+    }
+
+    private void OpenCustomers(object? sender, EventArgs e)
+    {
+        using var window = new CustomersForm();
+        window.ShowDialog(this);
+    }
+
+    private void OpenReports(object? sender, EventArgs e)
+    {
+        using var window = new ReportsForm();
+        window.ShowDialog(this);
+    }
+
+    private void OpenSettings(object? sender, EventArgs e)
+    {
+        using var window = new SettingsForm();
+        window.ShowDialog(this);
+    }
 }

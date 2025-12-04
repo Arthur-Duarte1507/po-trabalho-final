@@ -28,6 +28,11 @@ partial class MainWindow
     /// </summary>
     private void InitializeComponent()
     {
+        mainMenu = new MenuStrip();
+        cashierMenuItem = new ToolStripMenuItem();
+        customersMenuItem = new ToolStripMenuItem();
+        reportsMenuItem = new ToolStripMenuItem();
+        settingsMenuItem = new ToolStripMenuItem();
         headerPanel = new Panel();
         headerTitle = new Label();
         connectionGroup = new GroupBox();
@@ -49,17 +54,56 @@ partial class MainWindow
         addButton = new Button();
         editButton = new Button();
         deleteButton = new Button();
+        mainMenu.SuspendLayout();
         headerPanel.SuspendLayout();
         connectionGroup.SuspendLayout();
         ((System.ComponentModel.ISupportInitialize)productsGrid).BeginInit();
         SuspendLayout();
+        // 
+        // mainMenu
+        // 
+        mainMenu.ImageScalingSize = new Size(20, 20);
+        mainMenu.Items.AddRange(new ToolStripItem[] { cashierMenuItem, customersMenuItem, reportsMenuItem, settingsMenuItem });
+        mainMenu.Location = new Point(0, 0);
+        mainMenu.Name = "mainMenu";
+        mainMenu.Size = new Size(982, 28);
+        mainMenu.TabIndex = 0;
+        mainMenu.Text = "menuStrip1";
+        // 
+        // cashierMenuItem
+        // 
+        cashierMenuItem.Name = "cashierMenuItem";
+        cashierMenuItem.Size = new Size(62, 24);
+        cashierMenuItem.Text = "Caixa";
+        cashierMenuItem.Click += OpenCashier;
+        // 
+        // customersMenuItem
+        // 
+        customersMenuItem.Name = "customersMenuItem";
+        customersMenuItem.Size = new Size(80, 24);
+        customersMenuItem.Text = "Clientes";
+        customersMenuItem.Click += OpenCustomers;
+        // 
+        // reportsMenuItem
+        // 
+        reportsMenuItem.Name = "reportsMenuItem";
+        reportsMenuItem.Size = new Size(94, 24);
+        reportsMenuItem.Text = "Relatórios";
+        reportsMenuItem.Click += OpenReports;
+        // 
+        // settingsMenuItem
+        // 
+        settingsMenuItem.Name = "settingsMenuItem";
+        settingsMenuItem.Size = new Size(120, 24);
+        settingsMenuItem.Text = "Configurações";
+        settingsMenuItem.Click += OpenSettings;
         // 
         // headerPanel
         // 
         headerPanel.BackColor = Color.FromArgb(27, 38, 59);
         headerPanel.Controls.Add(headerTitle);
         headerPanel.Dock = DockStyle.Top;
-        headerPanel.Location = new Point(0, 0);
+        headerPanel.Location = new Point(0, 28);
         headerPanel.Name = "headerPanel";
         headerPanel.Size = new Size(982, 72);
         headerPanel.TabIndex = 0;
@@ -91,7 +135,7 @@ partial class MainWindow
         connectionGroup.Controls.Add(hostLabel);
         connectionGroup.Controls.Add(saveConnectionButton);
         connectionGroup.Font = new Font("Segoe UI", 10F, FontStyle.Regular, GraphicsUnit.Point, 0);
-        connectionGroup.Location = new Point(20, 88);
+        connectionGroup.Location = new Point(20, 112);
         connectionGroup.Name = "connectionGroup";
         connectionGroup.Size = new Size(942, 164);
         connectionGroup.TabIndex = 1;
@@ -217,7 +261,7 @@ partial class MainWindow
         // 
         gridTitle.AutoSize = true;
         gridTitle.Font = new Font("Segoe UI", 11F, FontStyle.Bold, GraphicsUnit.Point, 0);
-        gridTitle.Location = new Point(20, 265);
+        gridTitle.Location = new Point(20, 289);
         gridTitle.Name = "gridTitle";
         gridTitle.Size = new Size(162, 25);
         gridTitle.TabIndex = 2;
@@ -229,7 +273,7 @@ partial class MainWindow
         productsGrid.BackgroundColor = Color.White;
         productsGrid.BorderStyle = BorderStyle.Fixed3D;
         productsGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-        productsGrid.Location = new Point(20, 293);
+        productsGrid.Location = new Point(20, 317);
         productsGrid.Name = "productsGrid";
         productsGrid.RowHeadersWidth = 51;
         productsGrid.RowTemplate.Height = 29;
@@ -242,7 +286,7 @@ partial class MainWindow
         reloadButton.BackColor = Color.FromArgb(235, 239, 245);
         reloadButton.FlatAppearance.BorderColor = Color.FromArgb(200, 206, 217);
         reloadButton.FlatStyle = FlatStyle.Flat;
-        reloadButton.Location = new Point(20, 541);
+        reloadButton.Location = new Point(20, 565);
         reloadButton.Name = "reloadButton";
         reloadButton.Size = new Size(120, 34);
         reloadButton.TabIndex = 7;
@@ -257,7 +301,7 @@ partial class MainWindow
         addButton.FlatAppearance.BorderSize = 0;
         addButton.FlatStyle = FlatStyle.Flat;
         addButton.ForeColor = Color.White;
-        addButton.Location = new Point(164, 541);
+        addButton.Location = new Point(164, 565);
         addButton.Name = "addButton";
         addButton.Size = new Size(120, 34);
         addButton.TabIndex = 8;
@@ -272,7 +316,7 @@ partial class MainWindow
         editButton.FlatAppearance.BorderSize = 0;
         editButton.FlatStyle = FlatStyle.Flat;
         editButton.ForeColor = Color.FromArgb(47, 41, 28);
-        editButton.Location = new Point(308, 541);
+        editButton.Location = new Point(308, 565);
         editButton.Name = "editButton";
         editButton.Size = new Size(120, 34);
         editButton.TabIndex = 9;
@@ -287,7 +331,7 @@ partial class MainWindow
         deleteButton.FlatAppearance.BorderSize = 0;
         deleteButton.FlatStyle = FlatStyle.Flat;
         deleteButton.ForeColor = Color.White;
-        deleteButton.Location = new Point(452, 541);
+        deleteButton.Location = new Point(452, 565);
         deleteButton.Name = "deleteButton";
         deleteButton.Size = new Size(120, 34);
         deleteButton.TabIndex = 10;
@@ -300,7 +344,7 @@ partial class MainWindow
         AutoScaleDimensions = new SizeF(8F, 20F);
         AutoScaleMode = AutoScaleMode.Font;
         BackColor = Color.WhiteSmoke;
-        ClientSize = new Size(982, 593);
+        ClientSize = new Size(982, 640);
         Controls.Add(deleteButton);
         Controls.Add(editButton);
         Controls.Add(addButton);
@@ -309,10 +353,14 @@ partial class MainWindow
         Controls.Add(gridTitle);
         Controls.Add(connectionGroup);
         Controls.Add(headerPanel);
-        MinimumSize = new Size(820, 550);
+        Controls.Add(mainMenu);
+        MainMenuStrip = mainMenu;
+        MinimumSize = new Size(820, 600);
         Name = "MainWindow";
         StartPosition = FormStartPosition.CenterScreen;
         Text = "Super Duper Market - Estoque";
+        mainMenu.ResumeLayout(false);
+        mainMenu.PerformLayout();
         headerPanel.ResumeLayout(false);
         headerPanel.PerformLayout();
         connectionGroup.ResumeLayout(false);
