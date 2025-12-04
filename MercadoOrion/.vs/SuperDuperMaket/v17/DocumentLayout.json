@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|c:\\users\\aquin\\desktop\\superdupermarket\\superdupermaket\\superdupermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|c:\\users\\aquin\\desktop\\superdupermarket\\superdupermaket\\superdupermarket\\formatualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formatualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|c:\\users\\aquin\\desktop\\superdupermarket\\superdupermaket\\superdupermarket\\formcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|c:\\users\\aquin\\desktop\\superdupermarket\\superdupermaket\\superdupermarket\\formdeletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formdeletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|c:\\users\\aquin\\desktop\\superdupermarket\\superdupermaket\\superdupermarket\\formread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\superdupermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\superdupermarket\\formatualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formatualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\superdupermarket\\formread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\superdupermarket\\formdeletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formdeletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\superdupermarket\\formcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B764B655-FEAD-4EFC-B439-65D272190F5F}|SuperDuperMarket\\SuperDuperMarket.csproj|solutionrelative:superdupermarket\\formcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDeletar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormDeletar.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormDeletar.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormDeletar.cs [Projeto]",
+              "RelativeToolTip": "SuperDuperMarket\\FormDeletar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:18:13.446Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRead.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormRead.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormRead.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormRead.cs [Design]",
+              "RelativeToolTip": "SuperDuperMarket\\FormRead.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:02:49.212Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAtualizar.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormAtualizar.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormAtualizar.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormAtualizar.cs [Projeto]",
+              "RelativeToolTip": "SuperDuperMarket\\FormAtualizar.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T22:25:25.274Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCreate.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormCreate.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormCreate.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormCreate.cs [Projeto]",
+              "RelativeToolTip": "SuperDuperMarket\\FormCreate.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:30:28.018Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\Form1.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\Form1.cs [Projeto]",
+              "RelativeToolTip": "SuperDuperMarket\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T04:06:10.714Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAtualizar.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormAtualizar.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormAtualizar.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormAtualizar.cs",
+              "RelativeToolTip": "SuperDuperMarket\\FormAtualizar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:25:05.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDeletar.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormDeletar.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormDeletar.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormDeletar.cs",
+              "RelativeToolTip": "SuperDuperMarket\\FormDeletar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:24:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRead.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormRead.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormRead.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormRead.cs",
+              "RelativeToolTip": "SuperDuperMarket\\FormRead.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:24:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCreate.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormCreate.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\FormCreate.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\FormCreate.cs",
+              "RelativeToolTip": "SuperDuperMarket\\FormCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:57:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\Form1.cs",
+              "RelativeDocumentMoniker": "SuperDuperMarket\\Form1.cs",
+              "ToolTip": "C:\\Users\\aquin\\Desktop\\SuperDuperMarket\\SuperDuperMaket\\SuperDuperMarket\\Form1.cs",
+              "RelativeToolTip": "SuperDuperMarket\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:10:23.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
