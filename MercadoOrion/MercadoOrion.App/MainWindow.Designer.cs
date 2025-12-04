@@ -393,4 +393,9 @@ partial class MainWindow
     private Button addButton;
     private Button editButton;
     private Button deleteButton;
+    private MenuStrip mainMenu;
+    private ToolStripMenuItem cashierMenuItem;
+    private ToolStripMenuItem customersMenuItem;
+    private ToolStripMenuItem reportsMenuItem;
+    private ToolStripMenuItem settingsMenuItem;
 }

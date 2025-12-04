@@ -1,0 +1,7 @@
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.Properties.Resources.resources
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.csproj.GenerateResource.cache
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\arthur\development\repositories\po-trabalho-final\MercadoOrion\MercadoOrion.App\obj\Debug\net8.0-windows\MercadoOrion.App.csproj.CoreCompileInputs.cache
